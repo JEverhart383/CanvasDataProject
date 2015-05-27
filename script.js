@@ -4,7 +4,6 @@ var Spring2015 = "data/Spring2015.json";
 var Spring2015Name = "Spring 2015"; 
 
 //Fall 2014 
-
 var Fall2014 = "data/Fall2014.json"; 
 var Fall2014Name = "Fall 2014"; 
 
@@ -17,7 +16,6 @@ var Summer12014 = "data/Summer12014.json";
 var Summer12014Name = "Summer I 2014"; 
 
 //Spring 2014
-
 var Spring2014 = "data/Spring2014.json"; 
 var Spring2014Name = "Spring 2014"; 
 
@@ -78,7 +76,7 @@ function createCharts(dataPath, termName){
 
 
 			var myChart = new dimple.chart(svg,data1); 
-			myChart.setBounds(60,30,1100,400); 
+			myChart.setBounds(60,30, 1100, 400); 
 			var x = myChart.addTimeAxis("x", "date", "%Y-%m-%d", "%a-%m-%d-%Y" ); 
 			var y = myChart.addMeasureAxis("y", "views"); 
 			var p = myChart.addMeasureAxis("y", "participations"); 
@@ -141,36 +139,3 @@ document.querySelector(".summer22013").onclick = function(){
 document.querySelector(".summer12013").onclick = function(){
 	createCharts(Summer12013, Summer12013Name);  
 }; 
-
-
-
-
-
-
-
-//call to load JSON data 
-
-// d3.json("Spring2015.json", function(data){
-
-// 		d3.selectAll(".term-name").text("Spring 2015"); 	
-
-// 		data1 = data.by_date;
-// 		data2 = data.by_category; 
-
-// 		var myChart = new dimple.chart(svg,data1); 
-// 		myChart.setBounds(60,30,950,450); 
-// 		var x = myChart.addTimeAxis("x", "date", "%Y-%m-%d", "%a-%m-%d-%Y" ); 
-// 		var y = myChart.addMeasureAxis("y", "views"); 
-// 		var p = myChart.addMeasureAxis("y", "participations"); 
-// 		var s = myChart.addSeries(null , dimple.plot.line); 
-// 		myChart.draw(); 
-
-// 		var myChart2 = new dimple.chart(svg2, data2);
-// 		myChart2.setBounds(60,30,950,450); 
-// 		myChart2.addMeasureAxis("p", "views"); 
-// 		var ring = myChart2.addSeries("category", dimple.plot.pie); 
-// 		ring.innerRadius = "50%"; 
-// 		myChart2.addLegend(150,20,200,300, "left"); 
-// 		myChart2.draw(); 
-
-// }); 
