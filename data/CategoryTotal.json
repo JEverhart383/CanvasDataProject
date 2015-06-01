@@ -1,0 +1,528 @@
+[
+        {
+        	"term_name": "Spring 2015",
+            "category": "announcements",
+            "views": 79400
+        },
+        {
+        	"term_name": "Spring 2015",
+            "category": "assignments",
+            "views": 1343617
+        },
+        {
+        	"term_name": "Spring 2015",
+            "category": "collaborations",
+            "views": 7162
+        },
+        {
+        	"term_name": "Spring 2015",
+            "category": "conferences",
+            "views": 3058
+        },
+        {
+        	"term_name": "Spring 2015",
+            "category": "discussions",
+            "views": 458958
+        },
+        {
+        	"term_name": "Spring 2015",
+            "category": "files",
+            "views": 905729
+        },
+        {
+        	"term_name": "Spring 2015",
+            "category": "general",
+            "views": 980021
+        },
+        {
+        	"term_name": "Spring 2015",
+            "category": "grades",
+            "views": 687061
+        },
+        {
+        	"term_name": "Spring 2015",
+            "category": "groups",
+            "views": 2973
+        },
+        {
+        	"term_name": "Spring 2015",
+            "category": "modules",
+            "views": 508722
+        },
+        {
+        	"term_name": "Spring 2015",
+            "category": "other",
+            "views": 197635
+        },
+        {
+        	"term_name": "Spring 2015",
+            "category": "pages",
+            "views": 315196
+        },
+        {
+        	"term_name": "Spring 2015",
+            "category": "quizzes",
+            "views": 1036249
+        }, 
+
+        {
+        	"term_name": "Fall 2014",
+            "category": "announcements",
+            "views": 88949
+        },
+        {
+        	"term_name": "Fall 2014", 
+            "category": "assignments",
+            "views": 1339246
+        },
+        {
+        	"term_name": "Fall 2014", 
+            "category": "collaborations",
+            "views": 10642
+        },
+        {
+        	"term_name": "Fall 2014", 
+            "category": "conferences",
+            "views": 4953
+        },
+        {
+        	"term_name": "Fall 2014", 
+            "category": "discussions",
+            "views": 405799
+        },
+        {
+        	"term_name": "Fall 2014", 
+            "category": "files",
+            "views": 884326
+        },
+        {
+        	"term_name": "Fall 2014", 
+            "category": "general",
+            "views": 1012922
+        },
+        {
+        	"term_name": "Fall 2014", 
+            "category": "grades",
+            "views": 613711
+        },
+        {
+        	"term_name": "Fall 2014", 
+            "category": "groups",
+            "views": 3916
+        },
+        {
+        	"term_name": "Fall 2014", 
+            "category": "modules",
+            "views": 491982
+        },
+        {
+        	"term_name": "Fall 2014", 
+            "category": "other",
+            "views": 194942
+        },
+        {
+        	"term_name": "Fall 2014", 
+            "category": "pages",
+            "views": 285576
+        },
+        {
+        	"term_name": "Fall 2014", 
+            "category": "quizzes",
+            "views": 797115
+        }, 
+
+        {
+        	"term_name" : "Summer II 2014", 
+            "category": "announcements",
+            "views": 13662
+        },
+        {
+        	"term_name" : "Summer II 2014", 
+            "category": "assignments",
+            "views": 267547
+        },
+        {
+        	"term_name" : "Summer II 2014", 
+            "category": "collaborations",
+            "views": 1901
+        },
+        {
+        	"term_name" : "Summer II 2014", 
+            "category": "conferences",
+            "views": 1091
+        },
+        {
+        	"term_name" : "Summer II 2014", 
+            "category": "discussions",
+            "views": 219795
+        },
+        {
+        	"term_name" : "Summer II 2014", 
+            "category": "files",
+            "views": 93862
+        },
+        {
+        	"term_name" : "Summer II 2014", 
+            "category": "general",
+            "views": 123500
+        },
+        {
+        	"term_name" : "Summer II 2014", 
+            "category": "grades",
+            "views": 122637
+        },
+        {
+        	"term_name" : "Summer II 2014", 
+            "category": "groups",
+            "views": 657
+        },
+        {
+        	"term_name" : "Summer II 2014", 
+            "category": "modules",
+            "views": 147417
+        },
+        {
+        	"term_name" : "Summer II 2014", 
+            "category": "other",
+            "views": 353840
+        },
+        {
+        	"term_name" : "Summer II 2014", 
+            "category": "pages",
+            "views": 92985
+        },
+        {
+        	"term_name" : "Summer II 2014", 
+            "category": "quizzes",
+            "views": 1051
+        },
+        {
+        	"term_name" : "Summer I 2014", 
+            "category": "announcements",
+            "views": 4828
+        },
+        {
+        	"term_name" : "Summer I 2014", 
+            "category": "assignments",
+            "views": 131036
+        },
+        {
+        	"term_name" : "Summer I 2014", 
+            "category": "collaborations",
+            "views": 563
+        },
+        {
+        	"term_name" : "Summer I 2014", 
+            "category": "conferences",
+            "views": 171
+        },
+        {
+        	"term_name" : "Summer I 2014", 
+            "category": "discussions",
+            "views": 86005
+        },
+        {
+        	"term_name" : "Summer I 2014", 
+            "category": "files",
+            "views": 42769
+        },
+        {
+        	"term_name" : "Summer I 2014", 
+            "category": "general",
+            "views": 58576
+        },
+        {
+        	"term_name" : "Summer I 2014", 
+            "category": "grades",
+            "views": 61159
+        },
+        {
+        	"term_name" : "Summer I 2014", 
+            "category": "groups",
+            "views": 281
+        },
+        {
+        	"term_name" : "Summer I 2014", 
+            "category": "modules",
+            "views": 63167
+        },
+        {
+        	"term_name" : "Summer I 2014", 
+            "category": "other",
+            "views": 141071
+        },
+        {
+        	"term_name" : "Summer I 2014", 
+            "category": "pages",
+            "views": 54291
+        },
+        {
+        	"term_name" : "Summer I 2014", 
+            "category": "quizzes",
+            "views": 1236
+        }, 
+
+        {
+        	"term_name": "Spring 2014", 
+            "category": "announcements",
+            "views": 75166
+        },
+        {
+        	"term_name": "Spring 2014", 
+            "category": "assignments",
+            "views": 1134642
+        },
+        {
+        	"term_name": "Spring 2014", 
+            "category": "collaborations",
+            "views": 9198
+        },
+        {
+        	"term_name": "Spring 2014", 
+            "category": "conferences",
+            "views": 3731
+        },
+        {
+        	"term_name": "Spring 2014", 
+            "category": "discussions",
+            "views": 342526
+        },
+        {
+        	"term_name": "Spring 2014", 
+            "category": "files",
+            "views": 1005961
+        },
+        {
+        	"term_name": "Spring 2014", 
+            "category": "general",
+            "views": 832640
+        },
+        {
+        	"term_name": "Spring 2014", 
+            "category": "grades",
+            "views": 599917
+        },
+        {
+        	"term_name": "Spring 2014", 
+            "category": "groups",
+            "views": 1315
+        },
+        {
+        	"term_name": "Spring 2014", 
+            "category": "modules",
+            "views": 442576
+        },
+        {
+        	"term_name": "Spring 2014", 
+            "category": "other",
+            "views": 417037
+        },
+        {
+        	"term_name": "Spring 2014", 
+            "category": "pages",
+            "views": 248036
+        },
+        {
+        	"term_name": "Spring 2014", 
+            "category": "quizzes",
+            "views": 420165
+        }, 
+
+        {
+        	"term_name" : "Fall 2013", 
+            "category": "announcements",
+            "views": 90788
+        },
+        {
+        	"term_name" : "Fall 2013", 
+            "category": "assignments",
+            "views": 1016198
+        },
+        {
+        	"term_name" : "Fall 2013", 
+            "category": "collaborations",
+            "views": 13847
+        },
+        {
+        	"term_name" : "Fall 2013", 
+            "category": "conferences",
+            "views": 5604
+        },
+        {
+        	"term_name" : "Fall 2013", 
+            "category": "discussions",
+            "views": 355681
+        },
+        {
+        	"term_name" : "Fall 2013", 
+            "category": "files",
+            "views": 1001871
+        },
+        {
+        	"term_name" : "Fall 2013", 
+            "category": "general",
+            "views": 862234
+        },
+        {
+        	"term_name" : "Fall 2013", 
+            "category": "grades",
+            "views": 508154
+        },
+        {
+        	"term_name" : "Fall 2013", 
+            "category": "groups",
+            "views": 1550
+        },
+        {
+        	"term_name" : "Fall 2013", 
+            "category": "modules",
+            "views": 412148
+        },
+        {
+        	"term_name" : "Fall 2013", 
+            "category": "other",
+            "views": 4331044
+        },
+        {
+        	"term_name" : "Fall 2013", 
+            "category": "pages",
+            "views": 202292
+        },
+        {
+        	"term_name" : "Fall 2013", 
+            "category": "quizzes",
+            "views": 477040
+        }, 
+
+        {
+        	"term_name": "Summer II 2013", 
+            "category": "announcements",
+            "views": 13662
+        },
+        {
+        	"term_name": "Summer II 2013", 
+            "category": "assignments",
+            "views": 267547
+        },
+        {
+        	"term_name": "Summer II 2013", 
+            "category": "collaborations",
+            "views": 1901
+        },
+        {
+        	"term_name": "Summer II 2013", 
+            "category": "conferences",
+            "views": 1091
+        },
+        {
+        	"term_name": "Summer II 2013", 
+            "category": "discussions",
+            "views": 219795
+        },
+        {
+        	"term_name": "Summer II 2013", 
+            "category": "files",
+            "views": 93862
+        },
+        {
+        	"term_name": "Summer II 2013", 
+            "category": "general",
+            "views": 123500
+        },
+        {
+        	"term_name": "Summer II 2013", 
+            "category": "grades",
+            "views": 122637
+        },
+        {
+        	"term_name": "Summer II 2013", 
+            "category": "groups",
+            "views": 657
+        },
+        {
+        	"term_name": "Summer II 2013", 
+            "category": "modules",
+            "views": 147417
+        },
+        {
+        	"term_name": "Summer II 2013", 
+            "category": "other",
+            "views": 353840
+        },
+        {
+        	"term_name": "Summer II 2013", 
+            "category": "pages",
+            "views": 92985
+        },
+        {
+        	"term_name": "Summer II 2013", 
+            "category": "quizzes",
+            "views": 1051
+        }, 
+
+        {
+        	"term_name": "Summer I 2013",
+            "category": "announcements",
+            "views": 7294
+        },
+        {
+        	"term_name": "Summer I 2013",
+            "category": "assignments",
+            "views": 88063
+        },
+        {
+        	"term_name": "Summer I 2013",
+            "category": "collaborations",
+            "views": 660
+        },
+        {
+        	"term_name": "Summer I 2013",
+            "category": "conferences",
+            "views": 506
+        },
+        {
+        	"term_name": "Summer I 2013",
+            "category": "discussions",
+            "views": 52296
+        },
+        {
+        	"term_name": "Summer I 2013",
+            "category": "files",
+            "views": 36794
+        },
+        {
+        	"term_name": "Summer I 2013",
+            "category": "general",
+            "views": 42359
+        },
+        {
+        	"term_name": "Summer I 2013",
+            "category": "grades",
+            "views": 41110
+        },
+        {
+        	"term_name": "Summer I 2013",
+            "category": "groups",
+            "views": 495
+        },
+        {
+        	"term_name": "Summer I 2013",
+            "category": "modules",
+            "views": 35008
+        },
+        {
+        	"term_name": "Summer I 2013",
+            "category": "other",
+            "views": 516009
+        },
+        {
+        	"term_name": "Summer I 2013",
+            "category": "pages",
+            "views": 35054
+        },
+        {
+        	"term_name": "Summer I 2013",
+            "category": "quizzes",
+            "views": 57878
+        }
+] 

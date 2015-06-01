@@ -32,17 +32,31 @@
 
 <div class="panel panel-default">
 	<div class="panel-heading">
-		<h4>Overview for <span class="term-name"></span></h4>
+		<h4><span class="glyphicon glyphicon-cog"></span> General Overview for <span class="term-name"></span></h4>
 	</div>
 	<div class="panel-body">
 		<div class="row">
-			<div class="col-lg-6">
+			<div class="col-lg-3">
+				<h4><span class="glyphicon glyphicon-user"></span> User Statistics</h4>
+				<br>
+				<h5>Total Courses: <span class="total-courses"></span></h5>
+				<h5>Total Teachers: <span class="total-teachers"></span></h5>
+				<h5>Total Students: <span class="total-students"></span></h5>
+			</div>
+			<div class="col-lg-3">
+				<h4><span class="glyphicon glyphicon-stats"></span> Total Activity</h4>
+				<br>
 				<h5>Total Views: <span class="total-views"></span></h5>
 				<h5>Mean Views: <span class="mean-views"></span></h5>
-			</div>
-			<div class="col-lg-6">
+				<br>
 				<h5>Total Participations: <span class="total-participate"></span></h5>
 				<h5>Mean Participations: <span class="mean-participate"></span></h5>
+			</div>
+			<div class="col-lg-6">
+				<h4><span class="glyphicon glyphicon-education"></span> Grade Distribution</h4>
+				<br>
+				<div id="gradeChart">
+				</div>
 			</div>	
 		</div>		
 	</div>
@@ -61,9 +75,33 @@
 
 <br>
 <br>
+<div class="row">
+	<div class="col-lg-8">
+		<h4>Total Canvas Views by Category <span class="term-name"></span> Term</h4>
+		<div id="chart2">
 
-<h4>Total Canvas Views by Category <span class="term-name"></span> Term</h4>
-<div id="chart2">
+		</div>
+	</div>
+	<div class="col-lg-4">
+		<div class= "panel panel-default">
+			<div class="panel-heading">
+				<h4><span class="glyphicon glyphicon-wrench"></span> Canvas Tool Usage</h4>
+			</div>
+			<div class="panel-body">
+				<h5> <span class="glyphicon glyphicon-comment"></span> Discussion Topics: <span class="total-discussions"></span> </h5>
+				<h5> <span class="glyphicon glyphicon-facetime-video"></span> Media Objects: <span class="total-media"></span> </h5>
+				<h5> <span class="glyphicon glyphicon-paperclip"></span> Attachments: <span class="total-attachments"></span> </h5>
+				<h5> <span class="glyphicon glyphicon-check"></span> Assignments: <span class="total-assignments"></span> </h5>
+			</div>
+		</div>
+	</div>	
+</div>
+<br>
+<br>
+<h4>Canvas Usage by Category Over Time</h4>
+
+<div id= "chart3">
+
 
 </div>
 
